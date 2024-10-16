@@ -274,8 +274,8 @@ img {
 }
 
 /* ===== ABOUT =====*/
-section.about {
-  padding: 20vh 15px;
+.section .about {
+  padding: 20vh 51px;
 }
 .about-container {
   row-gap: 2rem;
