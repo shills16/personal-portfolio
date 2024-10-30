@@ -227,7 +227,7 @@ function App() {
                     </div>
                     <div className="counter-wrap ftco-animate d-flex mt-md-3">
                       <div className="text">
-                        <p><a href="CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a>
+                        <p><a href="/CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a>
                         </p>
                       </div>
                     </div>
