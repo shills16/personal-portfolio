@@ -78,7 +78,7 @@ function App() {
             user-friendly websites.
           </p>
           <a href="#" className="button">Hire Me</a> <span>
-          <a href="CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a> </span>
+          <a href="/CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a> </span>
         </div>
         <div className="home-social">
           <a
@@ -612,7 +612,7 @@ function App() {
             </div>
             <div className="row justify-content-center mt-5">
               <div className="col-md-6 text-center ftco-animate">
-              <a href="CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a>
+              <a href="/CV.pdf" download className="button">Download <span className="u-bolder">CV</span></a>
               </div>
             </div>
           </div>
