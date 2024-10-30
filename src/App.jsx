@@ -558,7 +558,7 @@ function App() {
                 It is Individual Project build by Me.
                 <br />
                 <br />
-                React | Redux | Node | Express | MongoDB
+                HTML | CSS | JS | React 
               </p>
               <a
                 href="https://github.com/shills16/webapp2-midterm-project.git"
@@ -571,7 +571,7 @@ function App() {
       </section>
 
       {/*===== RESUME ===== */}
-                      <i className="bx bxl-map" />
+      <i className="bx bxl-map" />
 
       <section className="resume section" id="resume">
           <h2 className="section-title">Resume</h2>
